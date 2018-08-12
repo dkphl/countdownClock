@@ -1,3 +1,3 @@
-# countdownClock
-
-just your basic countdown clock
+# Countdown Clock
+***
+## yep, it's just another countdown clock
